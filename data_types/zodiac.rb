@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Copyright 2020, John Gaskin <brotherbain@gmail.com>
 #
 # This file is part of LionEditor.
@@ -16,13 +18,25 @@
 # along with LionEditor.  If not, see <http://www.gnu.org/licenses/>.
 
 module Datatypes
-  class Proposition
-    attr_accessor :day_increment,
-      :proposition_number,
-      :days_counter,
-      :days_needed,
-      :number_chars,
-      :starting_location,
-      :characters
-  end
+  ZODIAC = {
+    Aries: 0x00,
+    Taurus: 0x10,
+    Gemini: 0x20,
+    Cancer: 0x30,
+    Leo: 0x40,
+    Virgo: 0x50,
+    Libra: 0x60,
+    Scorpio: 0x70,
+    Sagittarius: 0x80,
+    Capricorn: 0x90,
+    Aquarius: 0xA0,
+    Pisces: 0xB0,
+    Serpentarius: 0xC0
+  }.freeze
+
+  GENDER = {
+    Monster: 0x20,
+    Female: 0x40,
+    Male: 0x80
+  }.freeze
 end
