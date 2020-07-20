@@ -1,0 +1,194 @@
+---
+- byte: '00'
+  sprite: None
+- byte: '01'
+  sprite: Ramza, chapter 1
+- byte: '02'
+  sprite: Ramza, chapter 2 & 3
+- byte: '03'
+  sprite: Ramza, chapter 4
+- byte: '04'
+  sprite: Delita, chapter 1
+- byte: '05'
+  sprite: Delita, chapter 2 & 3
+- byte: '06'
+  sprite: Delita, chapter 4
+- byte: '07'
+  sprite: Argath
+- byte: 08
+  sprite: Zalbaag
+- byte: 09
+  sprite: Dycedarg
+- byte: 0A
+  sprite: Larg
+- byte: 0B
+  sprite: Goltanna
+- byte: 0C
+  sprite: Ovelia
+- byte: 0D
+  sprite: Orlandeau
+- byte: 0E
+  sprite: Funebris
+- byte: 0F
+  sprite: Reis (human)
+- byte: '10'
+  sprite: Zalmour
+- byte: '11'
+  sprite: Gaffgarion
+- byte: '12'
+  sprite: Marach
+- byte: '13'
+  sprite: Simon
+- byte: '14'
+  sprite: Alma
+- byte: '15'
+  sprite: Orran
+- byte: '16'
+  sprite: Mustadio
+- byte: '17'
+  sprite: Gaffgarion
+- byte: '18'
+  sprite: Delacroix
+- byte: '19'
+  sprite: Rapha
+- byte: 1A
+  sprite: Marach
+- byte: 1B
+  sprite: Elmdore
+- byte: 1C
+  sprite: Teta
+- byte: 1D
+  sprite: Barrington
+  command: []
+- byte: 1E
+  sprite: Agrias
+- byte: 1F
+  sprite: Beowulf
+- byte: '20'
+  sprite: Wiegraf, chapter 1
+- byte: '21'
+  sprite: Valmafra
+- byte: '22'
+  sprite: Mustadio
+- byte: '23'
+  sprite: Ludovich
+- byte: '24'
+  sprite: Folmarv
+- byte: '25'
+  sprite: Loffrey
+- byte: '26'
+  sprite: Isilud
+- byte: '27'
+  sprite: Cletienne
+- byte: '28'
+  sprite: Wiegraf, chapter 3
+- byte: '29'
+  sprite: Rapha
+- byte: 2A
+  sprite: Meliadoul
+- byte: 2B
+  sprite: Barich
+- byte: 2C
+  sprite: Alma
+- byte: 2D
+  sprite: Celia
+- byte: 2E
+  sprite: Lettie
+- byte: 2F
+  sprite: Meliadoul
+- byte: '30'
+  sprite: Alma
+- byte: '31'
+  command: []
+  sprite: Ajora
+- byte: '32'
+  sprite: Cloud
+- byte: '33'
+  sprite: Zalbaag, possessed
+- byte: '34'
+  sprite: Agrias
+- byte: '35'
+  sprite: []
+- byte: '36'
+  sprite: []
+- byte: '37'
+  sprite: []
+- byte: '38'
+  sprite: []
+- byte: '39'
+  sprite: []
+- byte: 3A
+  sprite: []
+- byte: 3B
+  sprite: []
+- byte: 3C
+  sprite: Belias
+- byte: 3D
+  sprite: []
+- byte: 3E
+  sprite: Zalera
+- byte: 3F
+  sprite: []
+- byte: '40'
+  sprite: Hashmalum
+- byte: '41'
+  command: []
+  sprite: Altima, First Form
+- byte: '42'
+  sprite: []
+- byte: '43'
+  sprite: Cuchulainn
+- byte: '44'
+  sprite: []
+- byte: '45'
+  sprite: Adremmelech
+- byte: '46'
+  sprite: []
+- byte: '47'
+  sprite: []
+- byte: '48'
+  sprite: Reis (Dragon)
+- byte: '49'
+  sprite: Altima, Second Form
+- byte: 4A
+  sprite: Gustav
+- byte: 4B
+  sprite: Milleuda
+- byte: 4C
+  sprite: Gragoroth
+- byte: '73'
+  sprite: Construct 7
+- byte: '74'
+  sprite: Syneugh
+- byte: '75'
+  sprite: Construct 8
+- byte: '76'
+  sprite: Boco
+- byte: '77'
+  sprite: Elidibus
+- byte: '78'
+  sprite: Lavian
+- byte: '79'
+  sprite: Alicia
+- byte: 7A
+  sprite: Fukes?
+- byte: 7B
+  sprite: Dish?
+- byte: 7C
+  sprite: Biggs
+- byte: 7D
+  sprite: Wedge
+- byte: 7E
+  sprite: Lezales
+- byte: 7F
+  sprite: Ladd
+- byte: '80'
+  sprite: Generic Male
+- byte: '81'
+  sprite: Generic Female
+- byte: '82'
+  sprite: Generic Monster
+- byte: A2
+  sprite: Balthier
+- byte: A3
+  sprite: Luso
